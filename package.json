@@ -24,7 +24,7 @@
   },
   "homepage": "https://github.com/mammutmedia/parse-server-ioredis-adapter",
   "dependencies": {
-    "ioredis": "5.2.1",
+    "ioredis": "5.2.2",
     "npmlog": "6.0.2"
   },
   "devDependencies": {
